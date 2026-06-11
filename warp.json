@@ -1,0 +1,13 @@
+{
+  "type": "wireguard",
+  "tag": "⚡ Cloudflare WARP+ VIP",
+  "server": "162.159.193.10",
+  "server_port": 2408,
+  "local_address": [
+    "172.16.0.2/32",
+    "2606:4700:110:8287:1a2b:3c4d:5e6f/128"
+  ],
+  "private_key": "GEgY3JlYXRlZCBieSBhaSBkbyBub3QgY29weSB0aGlzIGxpbmU=",
+  "reserved":,
+  "mtu": 1280
+}
